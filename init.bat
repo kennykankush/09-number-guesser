@@ -1,0 +1,1 @@
+java -jar CPUvsTheWorld.jar 1 100	
